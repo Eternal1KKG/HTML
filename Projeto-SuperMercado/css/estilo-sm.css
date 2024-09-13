@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(255, 161, 107);
+}
+.navbar-brand img{
+    width: 35vw;
+}
+.container-fluid{
+    justify-items: center;align-items: center;
+}
